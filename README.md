@@ -1,3 +1,8 @@
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/1faec0e7-ed09-45e5-b3ea-b436bc78222c" />
+
+
+
+
 # 🚀 BlockSubmit  
 
 **BlockSubmit** is a simple and beginner-friendly Solidity smart contract that records and tracks on-chain job submissions for transparent review.  
