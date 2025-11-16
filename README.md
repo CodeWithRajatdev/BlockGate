@@ -3,15 +3,15 @@
 
 
 
-# 🚀 BlockSubmit  
+# 🚀 BlockGate  
 
-**BlockSubmit** is a simple and beginner-friendly Solidity smart contract that records and tracks on-chain job submissions for transparent review.  
+**BlockGate** is a simple and beginner-friendly Solidity smart contract that records and tracks on-chain job submissions for transparent review.  
 It’s designed to help developers understand how blockchain can be used to verify, store, and manage digital entries securely.
 
 ---
 
 ## 🧠 Project Description
-BlockSubmit provides a decentralized way to store and retrieve job or task submissions on the blockchain.  
+BlockGate provides a decentralized way to store and retrieve job or task submissions on the blockchain.  
 Each submission is timestamped, publicly viewable, and permanently recorded — ensuring transparency and trust in how job entries are managed.
 
 ---
